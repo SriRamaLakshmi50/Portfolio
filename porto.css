@@ -86,7 +86,7 @@
      top: 380px;
    }
    .me{
-    background-image: url('static\images.jpeg');
+    background-image: url('images.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

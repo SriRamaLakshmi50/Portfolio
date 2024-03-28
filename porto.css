@@ -86,7 +86,7 @@
      top: 380px;
    }
    .me{
-    background-image: url('/static/images.jpeg');
+    background-image: url('static\images.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -120,7 +120,7 @@
     height: 100%;
      }
    .edu{
-    background-image: url('/static/images.jpeg');
+    background-image: url('static\images.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -195,7 +195,7 @@ font-weight: bold;
 
     
     .skl{  
-      background-image: url('/static/images.jpeg');
+      background-image: url('static\images.jpeg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -327,7 +327,7 @@ font-weight: bold;
    
 
    .cert{
-    background-image: url('/static/images.jpeg');
+    background-image: url('static\images.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -373,7 +373,7 @@ font-weight: bold;
 
 
    .cont{
-    background-image: url('/static/images.jpeg');
+    background-image: url('static\images.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
